@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leouarz</h1>
-<h3 align="center">A Blockchain developer / integrator</h3>
+<h3 align="center">Blockchain / Fullstack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leouarz&label=%F0%9F%91%80&color=0e75b6&style=flat" alt="leouarz" /> </p>
-
-<p align="left"> <a href="https://twitter.com/leouarzz" target="blank"><img src="https://img.shields.io/twitter/follow/leouarzz?logo=twitter&style=for-the-badge" alt="leouarzz" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=leouarz&label=%F0%9F%91%80&color=0e75b6&style=flat" alt="leouarz" /> </p>
 
 - 🔭 I’m currently working on [Ternoa's chain](https://www.ternoa.com/)
 
