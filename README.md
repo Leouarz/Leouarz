@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leouarz&label=%F0%9F%91%80&color=0e75b6&style=flat" alt="leouarz" /> </p>
 
-- 🔭 I’m currently working on [Ternoa's chain](https://www.ternoa.com/)
+- 🔭 I’m currently working on [Avail](https://www.availproject.org/)
 
 - 👯 I’m looking to collaborate on **Substrate / Solidity projects**
 
