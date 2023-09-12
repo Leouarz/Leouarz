@@ -20,6 +20,3 @@
 
 <h3 align="left">Public</h3>
 <a href="https://www.githubtrends.io/wrapped/Leouarz" target="_blank"><img align="center" src="https://api.githubtrends.io/user/svg/Leouarz/langs?time_range=one_year&compact=True&theme=dark" alt="leouarz" /></a>
-
-<h3 align="left">Statistics</h3>
-<a href="https://www.githubtrends.io/wrapped/Leouarz" target="_blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leouarz&theme=dark" alt="leouarz" /></a>
