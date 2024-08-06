@@ -17,6 +17,3 @@
 <a href="https://linkedin.com/in/ghali-el-ouarzazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghali-el-ouarzazi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13730838" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13730838" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Public</h3>
-<a href="https://www.githubtrends.io/wrapped/Leouarz" target="_blank"><img align="center" src="https://api.githubtrends.io/user/svg/Leouarz/langs?time_range=one_year&compact=True&theme=dark" alt="leouarz" /></a>
