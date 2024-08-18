@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on [Avail](https://www.availproject.org/)
 
-👯 I’m looking to collaborate on **Substrate / Solidity projects**
+👯 I’m looking to collaborate on **Substrate / GO / Solidity projects**
 
 👨‍💻 Most of my projects are available at [https://ghali.aliansact.com/](https://ghali.aliansact.com/)
 
