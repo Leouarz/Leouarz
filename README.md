@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leouarz&label=%F0%9F%91%80&color=0e75b6&style=flat" alt="leouarz" /> </p>
 
-🔭 I’m currently working on [Avail](https://www.availproject.org/)
+🔭 I’m currently working with [Avail](https://www.availproject.org/)
 
-👯 I’m looking to collaborate on **Substrate / GO / Solidity projects**
+👯 I’m looking to collaborate on **Rust / Typescript / Substrate / Solidity projects**
 
-👨‍💻 Most of my projects are available at [https://ghali.aliansact.com/](https://ghali.aliansact.com/)
+👨‍💻 Some of my projects are available at [https://ghali.aliansact.com/](https://ghali.aliansact.com/)
 
 📫 How to reach me **leouarzv2@gmail.com**
 
