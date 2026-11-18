@@ -20,14 +20,7 @@
 ### 02 / Stack
 
 <p align="center">
-<picture>
-  <source media="(max-width: 1279px)" srcset="./assets/stack-compact-light.svg">
-  <img src="./assets/stack-light.svg#gh-light-mode-only" alt="Tech stack. Main language: Rust. Web: TypeScript, JavaScript, React, Next.js, Vite. Backend and data: Node.js, Express, PostgreSQL, MySQL. Web3: Solidity, Polkadot, EVM, ethers.js, Wagmi. P2P and infra: Tokio, libp2p, WebAssembly, RocksDB, Docker, OpenTelemetry. AI: OpenRouter, RAG, fine-tuning, image generation, LLM routing, voice and TTS, vision.">
-</picture>
-<picture>
-  <source media="(max-width: 1279px)" srcset="./assets/stack-compact-dark.svg">
-  <img src="./assets/stack-dark.svg#gh-dark-mode-only" alt="Tech stack. Main language: Rust. Web: TypeScript, JavaScript, React, Next.js, Vite. Backend and data: Node.js, Express, PostgreSQL, MySQL. Web3: Solidity, Polkadot, EVM, ethers.js, Wagmi. P2P and infra: Tokio, libp2p, WebAssembly, RocksDB, Docker, OpenTelemetry. AI: OpenRouter, RAG, fine-tuning, image generation, LLM routing, voice and TTS, vision.">
-</picture>
+<picture><source media="(max-width: 1279px)" srcset="./assets/blank.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg"><img src="./assets/stack-dark.svg" alt="Tech stack. Main language: Rust. Web: TypeScript, JavaScript, React, Next.js, Vite. Backend and data: Node.js, Express, PostgreSQL, MySQL. Web3: Solidity, Polkadot, EVM, ethers.js, Wagmi. P2P and infra: Tokio, libp2p, WebAssembly, RocksDB, Docker, OpenTelemetry. AI: OpenRouter, RAG, fine-tuning, image generation, LLM routing, voice and TTS, vision."></picture><picture><source media="(min-width: 1280px)" srcset="./assets/blank.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/stack-compact-light.svg"><img src="./assets/stack-compact-dark.svg" alt="Tech stack. Main language: Rust. Web: TypeScript, JavaScript, React, Next.js, Vite. Backend and data: Node.js, Express, PostgreSQL, MySQL. Web3: Solidity, Polkadot, EVM, ethers.js, Wagmi. P2P and infra: Tokio, libp2p, WebAssembly, RocksDB, Docker, OpenTelemetry. AI: OpenRouter, RAG, fine-tuning, image generation, LLM routing, voice and TTS, vision."></picture>
 </p>
 
 ### 03 / Get in touch
